@@ -9,7 +9,7 @@ sites:
     headers:
       - "Accept: application/json"
   - name: MyDeal
-    url: https://public.autovance.com/health
+    url: https://services.autovance.com/public/health
     headers:
       - "Accept: application/json"
   - name: Broker
