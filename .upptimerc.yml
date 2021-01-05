@@ -23,16 +23,16 @@ sites:
       - "Accept: application/json"
 
   # Experiences
-  - name: Authentication
-    url: https://skywalker.autovance.com/login
-    method: POST
-    headers:
-      - "Accept: application/json"
-      - "api-key: $UPTIME_API_KEY"
-    body: '{"autovance-username":"monitor","autovance-password": "monitor"}'
-    expectedStatusCodes:
-      - 401
-      - 422
+  # - name: Authentication
+  #   url: https://skywalker.autovance.com/login
+  #   method: POST
+  #   headers:
+  #     - "Accept: application/json"
+  #     - "api-key: $UPTIME_API_KEY"
+  #   body: '{"autovance-username":"monitor","autovance-password": "monitor"}'
+  #   expectedStatusCodes:
+  #     - 401
+  #     - 422
 
 assignees:
   - autovance/back
