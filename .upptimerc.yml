@@ -40,7 +40,7 @@ assignees:
 
 workflowSchedule:
   graphs: "0 0 * * *"
-  responseTime: "15 11 * * *"
+  responseTime: "* */4 * * *"
   staticSite: "0 1 * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
