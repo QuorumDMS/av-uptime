@@ -4,6 +4,7 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
+  # Base APIs
   - name: Desk
     url: https://skywalker.autovance.com/health
     headers:
@@ -21,9 +22,18 @@ sites:
     headers:
       - "Accept: application/json"
 
+  # Experiences
+  - name: Authentication
+    url: https://skywalker.autovance.com/login
+    method: POST
+    body: '{"autovance-username":"monitor","autovance-password": "monitor"}'
+    expectedStatusCodes:
+      - 401
+      - 422
+
 assignees:
   - autovance/back
-  
+
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "15 11 * * *"
@@ -45,7 +55,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-      
+
 commitMessages:
   commitAuthorName: "botovance"
   commitAuthorEmail: "bot@autovance.com"
