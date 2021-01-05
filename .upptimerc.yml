@@ -45,6 +45,10 @@ status-website:
   navbar:
     - title: Status
       href: /
+      
+commitMessages:
+  commitAuthorName: "botovance"
+  commitAuthorEmail: "bot@autovance.com"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
