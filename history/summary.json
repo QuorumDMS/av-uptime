@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 250,
-    "timeWeek": 250,
-    "timeMonth": 250,
-    "timeYear": 250,
+    "time": 247,
+    "timeDay": 247,
+    "timeWeek": 247,
+    "timeMonth": 247,
+    "timeYear": 247,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 223,
-    "timeDay": 223,
-    "timeWeek": 223,
-    "timeMonth": 223,
-    "timeYear": 223,
+    "time": 221,
+    "timeDay": 221,
+    "timeWeek": 221,
+    "timeMonth": 221,
+    "timeYear": 221,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 229,
-    "timeWeek": 229,
-    "timeMonth": 229,
-    "timeYear": 229,
+    "time": 227,
+    "timeDay": 227,
+    "timeWeek": 227,
+    "timeMonth": 227,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   },
   {
@@ -70,5 +70,25 @@
     "timeMonth": 31,
     "timeYear": 31,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Authentication",
+    "url": "https://skywalker.autovance.com/login",
+    "icon": "https://favicons.githubusercontent.com/skywalker.autovance.com",
+    "slug": "authentication",
+    "status": "down",
+    "uptime": "8.20%",
+    "uptimeDay": "8.20%",
+    "uptimeWeek": "8.20%",
+    "uptimeMonth": "8.20%",
+    "uptimeYear": "8.20%",
+    "time": 30,
+    "timeDay": 30,
+    "timeWeek": 30,
+    "timeMonth": 30,
+    "timeYear": 30,
+    "dailyMinutesDown": {
+      "2021-01-05": 0
+    }
   }
 ]
