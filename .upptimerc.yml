@@ -39,8 +39,8 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://s3.amazonaws.com/cdn.autovance.com/img/icon.png
-  name: Autovance Service Uptime
-  introTitle: "Incident and Uptime Monitor for the Autovance Service Suite"
+  name: Autovance Application Uptime
+  introTitle: "Incident and Uptime Monitor for the Autovance Application Suite"
   introMessage: Here you'll find current and historical outages, as well as average response times, for the services powering Autovance Desk, Autovance Menu and MyDeal. Categories affecting specific experiences are listed as well.
   navbar:
     - title: Status
