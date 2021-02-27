@@ -5,17 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/skywalker.autovance.com",
     "slug": "desk",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
     "time": 246,
-    "timeDay": 249,
-    "timeWeek": 236,
+    "timeDay": 237,
+    "timeWeek": 235,
     "timeMonth": 238,
     "timeYear": 246,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-26": 25
+    }
   },
   {
     "name": "MyDeal",
@@ -29,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 235,
-    "timeWeek": 227,
+    "timeDay": 233,
+    "timeWeek": 228,
     "timeMonth": 236,
     "timeYear": 240,
     "dailyMinutesDown": {}
@@ -41,17 +43,20 @@
     "icon": "https://favicons.githubusercontent.com/broker.autovance.com",
     "slug": "broker",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.95%",
     "time": 227,
-    "timeDay": 241,
-    "timeWeek": 220,
-    "timeMonth": 223,
+    "timeDay": 218,
+    "timeWeek": 221,
+    "timeMonth": 222,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-26": 25,
+      "2021-02-12": 10
+    }
   },
   {
     "name": "Exports",
@@ -65,8 +70,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 32,
-    "timeDay": 36,
-    "timeWeek": 32,
+    "timeDay": 32,
+    "timeWeek": 33,
     "timeMonth": 32,
     "timeYear": 32,
     "dailyMinutesDown": {}
@@ -83,8 +88,8 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 152,
-    "timeDay": 155,
-    "timeWeek": 150,
+    "timeDay": 152,
+    "timeWeek": 151,
     "timeMonth": 153,
     "timeYear": 152,
     "dailyMinutesDown": {
