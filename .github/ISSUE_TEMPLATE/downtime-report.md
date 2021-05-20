@@ -7,6 +7,6 @@ assignees: matt-forster
 
 ---
 
-**Services Affected**: _[list of services]_
+**Services Affected**: <!-- list of services -->
 
-**Description of current problem**: _[short description of current knowledge]_
+**Description of current problem**: <!-- short description of current knowledge -->
