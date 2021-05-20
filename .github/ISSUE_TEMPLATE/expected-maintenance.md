@@ -1,7 +1,7 @@
 ---
 name: Expected Maintenance
 about: Create a maintenance issue.
-title: Expected Maintenance - DATE
+title: Expected Maintenance - [Title]
 labels: maintenance
 assignees: matt-forster
 

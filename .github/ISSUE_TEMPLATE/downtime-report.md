@@ -1,7 +1,7 @@
 ---
 name: Downtime Report
 about: Create a Downtime issue.
-title: "[Services] are Down - Short Description"
+title: "[Services] are Down - [Title]"
 labels: status
 assignees: matt-forster
 
