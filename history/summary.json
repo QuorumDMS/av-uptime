@@ -28,19 +28,19 @@
     "url": "https://services.autovance.com/public/health",
     "icon": "https://favicons.githubusercontent.com/services.autovance.com",
     "slug": "my-deal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 220,
-    "timeWeek": 204,
+    "timeDay": 218,
+    "timeWeek": 203,
     "timeMonth": 204,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2022-02-01": 1
+      "2022-02-01": 7
     }
   },
   {
