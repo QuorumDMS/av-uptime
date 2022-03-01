@@ -13,7 +13,7 @@
     "time": 204,
     "timeDay": 238,
     "timeWeek": 228,
-    "timeMonth": 223,
+    "timeMonth": 224,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2021-10-13": 2,
@@ -36,7 +36,7 @@
     "time": 197,
     "timeDay": 234,
     "timeWeek": 221,
-    "timeMonth": 214,
+    "timeMonth": 216,
     "timeYear": 197,
     "dailyMinutesDown": {}
   },
@@ -47,17 +47,16 @@
     "slug": "broker",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 192,
     "timeDay": 220,
     "timeWeek": 216,
-    "timeMonth": 209,
+    "timeMonth": 211,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2022-02-28": 7,
       "2021-05-14": 20,
       "2021-05-04": 13
     }
@@ -98,7 +97,7 @@
     "time": 149,
     "timeDay": 153,
     "timeWeek": 177,
-    "timeMonth": 160,
+    "timeMonth": 161,
     "timeYear": 149,
     "dailyMinutesDown": {
       "2022-02-03": 147,
