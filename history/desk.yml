@@ -1,7 +1,7 @@
 url: https://skywalker.autovance.com/health
-status: up
-code: 200
-responseTime: 157
-lastUpdated: 2022-03-31T09:04:40.631Z
+status: down
+code: 503
+responseTime: 146
+lastUpdated: 2022-03-31T09:26:11.226Z
 startTime: Tue Jan 05 2021 18:28:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
