@@ -1,7 +1,7 @@
 url: https://services.autovance.com/public/health
-status: down
-code: 502
-responseTime: 163
-lastUpdated: 2022-04-05T09:31:25.971Z
+status: up
+code: 200
+responseTime: 113
+lastUpdated: 2022-04-05T09:39:09.402Z
 startTime: Tue Jan 05 2021 18:28:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
