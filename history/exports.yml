@@ -1,7 +1,7 @@
 url: https://services.autovance.com/exports/health
-status: down
-code: 503
-responseTime: 78
-lastUpdated: 2022-11-03T13:51:51.615Z
+status: up
+code: 200
+responseTime: 91
+lastUpdated: 2022-11-03T14:26:33.743Z
 startTime: Tue Jan 05 2021 18:28:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
