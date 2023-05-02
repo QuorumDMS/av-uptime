@@ -64,5 +64,7 @@ commitMessages:
   commitAuthorName: "botovance"
   commitAuthorEmail: "bot@autovance.com"
 
+skipDeleteIssues: true
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
