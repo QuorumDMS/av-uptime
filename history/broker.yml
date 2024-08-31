@@ -1,7 +1,7 @@
 url: https://broker.autovance.com/health
-status: down
-code: 502
-responseTime: 185
-lastUpdated: 2024-08-31T08:43:15.685Z
+status: up
+code: 200
+responseTime: 381
+lastUpdated: 2024-08-31T08:44:00.272Z
 startTime: 2021-01-05T18:28:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
