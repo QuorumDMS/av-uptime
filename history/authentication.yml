@@ -1,7 +1,7 @@
 url: https://skywalker.autovance.com/login
-status: down
-code: 502
-responseTime: 23
-lastUpdated: 2025-01-21T07:44:19.918Z
+status: up
+code: 422
+responseTime: 152
+lastUpdated: 2025-01-21T07:50:53.012Z
 startTime: 2021-01-05T18:41:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
