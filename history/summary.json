@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
     "time": 227,
-    "timeDay": 233,
-    "timeWeek": 222,
-    "timeMonth": 227,
+    "timeDay": 255,
+    "timeWeek": 230,
+    "timeMonth": 226,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2026-01-10": 7,
@@ -26,8 +26,7 @@
       "2025-09-24": 160,
       "2025-09-07": 6,
       "2025-07-20": 35,
-      "2025-05-29": 24,
-      "2025-01-21": 7
+      "2025-05-29": 24
     }
   },
   {
@@ -41,11 +40,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 226,
-    "timeDay": 234,
-    "timeWeek": 217,
-    "timeMonth": 224,
-    "timeYear": 226,
+    "time": 225,
+    "timeDay": 240,
+    "timeWeek": 229,
+    "timeMonth": 223,
+    "timeYear": 225,
     "dailyMinutesDown": {
       "2025-09-27": 53,
       "2025-09-24": 105,
@@ -64,11 +63,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 217,
-    "timeDay": 221,
-    "timeWeek": 212,
-    "timeMonth": 224,
-    "timeYear": 217,
+    "time": 216,
+    "timeDay": 216,
+    "timeWeek": 213,
+    "timeMonth": 222,
+    "timeYear": 216,
     "dailyMinutesDown": {
       "2025-09-29": 21,
       "2025-09-27": 53,
@@ -76,8 +75,7 @@
       "2025-08-12": 87,
       "2025-07-20": 35,
       "2025-05-29": 39,
-      "2025-04-02": 5,
-      "2025-01-21": 7
+      "2025-04-02": 5
     }
   },
   {
@@ -92,8 +90,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 44,
-    "timeDay": 48,
-    "timeWeek": 43,
+    "timeDay": 54,
+    "timeWeek": 47,
     "timeMonth": 45,
     "timeYear": 44,
     "dailyMinutesDown": {
@@ -109,15 +107,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/skywalker.autovance.com.ico",
     "slug": "authentication",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
     "time": 178,
-    "timeDay": 171,
-    "timeWeek": 170,
-    "timeMonth": 174,
+    "timeDay": 181,
+    "timeWeek": 177,
+    "timeMonth": 175,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2026-01-10": 7,
@@ -133,8 +131,7 @@
       "2025-03-17": 2,
       "2025-03-13": 6,
       "2025-03-04": 5,
-      "2025-01-27": 8,
-      "2025-01-21": 7
+      "2025-01-27": 8
     }
   }
 ]
