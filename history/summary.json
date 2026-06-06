@@ -4,15 +4,15 @@
     "url": "https://skywalker.autovance.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/skywalker.autovance.com.ico",
     "slug": "desk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
     "time": 230,
-    "timeDay": 382,
-    "timeWeek": 239,
+    "timeDay": 366,
+    "timeWeek": 240,
     "timeMonth": 216,
     "timeYear": 231,
     "dailyMinutesDown": {
@@ -26,7 +26,7 @@
       "2025-12-28": 9,
       "2026-01-03": 6,
       "2026-01-10": 7,
-      "2026-06-06": 20
+      "2026-06-06": 33
     }
   },
   {
@@ -34,14 +34,14 @@
     "url": "https://services.autovance.com/public/health",
     "icon": "https://icons.duckduckgo.com/ip3/services.autovance.com.ico",
     "slug": "my-deal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 229,
-    "timeDay": 218,
+    "timeDay": 213,
     "timeWeek": 194,
     "timeMonth": 201,
     "timeYear": 229,
@@ -49,7 +49,7 @@
       "2025-07-20": 35,
       "2025-09-24": 105,
       "2025-09-27": 53,
-      "2026-06-06": 17
+      "2026-06-06": 28
     }
   },
   {
@@ -57,16 +57,16 @@
     "url": "https://broker.autovance.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/broker.autovance.com.ico",
     "slug": "broker",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
     "time": 220,
-    "timeDay": 220,
+    "timeDay": 212,
     "timeWeek": 201,
-    "timeMonth": 202,
+    "timeMonth": 201,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2025-07-20": 35,
@@ -74,7 +74,7 @@
       "2025-09-24": 131,
       "2025-09-27": 53,
       "2025-09-29": 21,
-      "2026-06-06": 15
+      "2026-06-06": 24
     }
   },
   {
@@ -82,22 +82,22 @@
     "url": "https://services.autovance.com/exports/health",
     "icon": "https://icons.duckduckgo.com/ip3/services.autovance.com.ico",
     "slug": "exports",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 49,
-    "timeDay": 192,
-    "timeWeek": 175,
-    "timeMonth": 174,
+    "timeDay": 185,
+    "timeWeek": 174,
+    "timeMonth": 175,
     "timeYear": 49,
     "dailyMinutesDown": {
       "2025-07-20": 20,
       "2025-09-24": 34,
       "2025-09-27": 53,
-      "2026-06-06": 13
+      "2026-06-06": 19
     }
   },
   {
@@ -105,14 +105,14 @@
     "url": "https://skywalker.autovance.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/skywalker.autovance.com.ico",
     "slug": "authentication",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.94%",
     "time": 184,
-    "timeDay": 290,
+    "timeDay": 291,
     "timeWeek": 287,
     "timeMonth": 292,
     "timeYear": 184,
@@ -126,7 +126,7 @@
       "2025-12-28": 9,
       "2026-01-03": 6,
       "2026-01-10": 7,
-      "2026-06-06": 11
+      "2026-06-06": 14
     }
   }
 ]
